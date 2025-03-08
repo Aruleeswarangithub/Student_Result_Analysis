@@ -46,7 +46,7 @@ Hey, it's **Aruleeswaran**, your **data science enthusiast**! 🚀 Welcome to **
 
 🔹 **Clone the Repository:**  
 ```sh
-https://github.com/YOUR_USERNAME/Student-Result-Analysis.git
+https://github.com/Aruleeswarangithub/Student_Result_Analysis.git
 ```
 🔹 **Install Dependencies:**  
 ```sh
